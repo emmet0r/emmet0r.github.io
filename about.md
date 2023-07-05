@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Emily!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a postdoctoral fellow with UC Santa Cruz's Open Source Program Office.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emme@soe.ucsc.edu](mailto:emme@soe.ucsc.edu)
